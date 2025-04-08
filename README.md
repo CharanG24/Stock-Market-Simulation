@@ -2,6 +2,8 @@
 
 A Java-based stock market simulation application that allows users to track and trade stocks using real-time data from the Alpha Vantage API.
 
+<img width="733" alt="image" src="https://github.com/user-attachments/assets/8137e458-aa57-4171-8382-556fac939774" />
+
 ## Features
 
 - Real-time stock quotes using Alpha Vantage API
@@ -18,4 +20,3 @@ A Java-based stock market simulation application that allows users to track and 
 - Alpha Vantage API key (get one for free at https://www.alphavantage.co/)
 
 
-<img width="733" alt="image" src="https://github.com/user-attachments/assets/8137e458-aa57-4171-8382-556fac939774" />
